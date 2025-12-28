@@ -27,9 +27,4 @@ To explore the 3D model, open the `.dwg` file in AutoCAD and use the **3D Orbit*
 
 **Designer:** Mohua Akter
 
-**Department:** Computer Science and Engineering
-
-**Institution:** East West University
-
----
 
